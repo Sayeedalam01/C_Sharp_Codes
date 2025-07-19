@@ -1,0 +1,18 @@
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/obj/Debug/Task_1.csproj.AssemblyReference.cache
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/obj/Debug/Task_1.csproj.CoreCompileInputs.cache
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/bin/Debug/Task_1.exe.config
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/bin/Debug/Task_1.exe
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/bin/Debug/Task_1.pdb
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/obj/Debug/Task_1.exe
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/obj/Debug/Task_1.pdb
+C:/Users/sayee/Desktop/C# Project and Tasks/Task_1/obj/Debug/Task_1.exe.config
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/obj/Debug/Task_1.csproj.AssemblyReference.cache
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/obj/Debug/Task_1.exe.config
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/obj/Debug/Task_1.csproj.CoreCompileInputs.cache
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/obj/Debug/Task_1.exe
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/obj/Debug/Task_1.pdb
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/bin/Debug/Task_1.exe.config
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/bin/Debug/Task_1.exe
+C:/Users/sayee/Desktop/C# Project and Tasks/PrintName/bin/Debug/Task_1.pdb
+/mnt/2E2A16416F4244BF/C# Project and Tasks Copy/PrintName/obj/Debug/Task_1.exe
+/mnt/2E2A16416F4244BF/C# Project and Tasks Copy/PrintName/obj/Debug/Task_1.pdb

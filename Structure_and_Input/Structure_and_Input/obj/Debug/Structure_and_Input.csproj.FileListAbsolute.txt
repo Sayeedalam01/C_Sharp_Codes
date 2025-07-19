@@ -1,0 +1,7 @@
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\bin\Debug\Structure_and_Input.exe.config
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\bin\Debug\Structure_and_Input.exe
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\bin\Debug\Structure_and_Input.pdb
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.csproj.AssemblyReference.cache
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.csproj.CoreCompileInputs.cache
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.exe
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.pdb
