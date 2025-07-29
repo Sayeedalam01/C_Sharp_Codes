@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4838D-04F6-4C78-B1F8-304C4AF1F458}|Car2\\Car2.csproj|C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\car2\\m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A4838D-04F6-4C78-B1F8-304C4AF1F458}|Car2\\Car2.csproj|solutionrelative:car2\\m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A4838D-04F6-4C78-B1F8-304C4AF1F458}|Car2\\Car2.csproj|c:\\users\\sayee\\desktop\\c# project and tasks\\car2\\car2\\car2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A4838D-04F6-4C78-B1F8-304C4AF1F458}|Car2\\Car2.csproj|solutionrelative:car2\\car2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "m.cs",
+              "DocumentMoniker": "C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\Car2\\m.cs",
+              "RelativeDocumentMoniker": "Car2\\m.cs",
+              "ToolTip": "C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\Car2\\m.cs",
+              "RelativeToolTip": "Car2\\m.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:47:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car2.cs",
+              "DocumentMoniker": "C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\Car2\\Car2.cs",
+              "RelativeDocumentMoniker": "Car2\\Car2.cs",
+              "ToolTip": "C:\\Users\\sayee\\Desktop\\C# Project and Tasks\\Car2\\Car2\\Car2.cs",
+              "RelativeToolTip": "Car2\\Car2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:42:48.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

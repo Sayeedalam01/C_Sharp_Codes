@@ -5,3 +5,4 @@ C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_In
 C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.csproj.CoreCompileInputs.cache
 C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.exe
 C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.pdb
+C:\Users\sayee\Desktop\C# Project and Tasks\Structure_and_Input\Structure_and_Input\obj\Debug\Structure_and_Input.exe.config

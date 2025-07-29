@@ -1,10 +1,8 @@
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/bin/Debug/Enum.exe.config
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/bin/Debug/Enum.exe
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/bin/Debug/Enum.pdb
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/obj/Debug/Enum.csproj.AssemblyReference.cache
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/obj/Debug/Enum.csproj.CoreCompileInputs.cache
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/obj/Debug/Enum.exe
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/obj/Debug/Enum.pdb
-C:/Users/sayee/Desktop/C# Project and Tasks/Enum/Enum/obj/Debug/Enum.exe.config
-/mnt/2E2A16416F4244BF/C# Project and Tasks Copy/Enum/Enum/obj/Debug/Enum.exe
-/mnt/2E2A16416F4244BF/C# Project and Tasks Copy/Enum/Enum/obj/Debug/Enum.pdb
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\obj\Debug\Enum.pdb
+C:\Users\sayee\Desktop\C# Project and Tasks\Enum\Enum\obj\Debug\Enum.exe.config
